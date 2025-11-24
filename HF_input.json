@@ -1,0 +1,15 @@
+{
+  "epsr": 10,
+  "ref_choice": "average central",
+  "in_choice":"random",
+  "filling": 2,
+  "exchange": true,
+  "boost1": 0,
+  "boost2": 0,
+  "seed": 0,
+  "HF_itermax": 800,
+  "HF_itermin": 20,
+  "HF_tolerance": 1e-08,
+  "measure_period": 100,
+  "HF_type": "ODA"
+}
