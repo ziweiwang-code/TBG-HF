@@ -4,7 +4,7 @@ TBG-HF is a Python code for self-consistent Hartree-Fock (HF) calculations on th
 It includes heterostrain effects and allows for the specific type of translational symmetry breaking that is necessary for finding the incommensurate Kekulé spiral (IKS) state. 
 
 This code release accompanies the reference
-* YH Kwan, Z Wang, G Wagner, N Bultinck, SH Simon, SA Parameswaran: Mean-field Modelling of Moiré Materials: A User's Guide with Selected Applications to Twisted Bilayer Graphene: arxiv:2511.xxxx
+* YH Kwan, Z Wang, G Wagner, N Bultinck, SH Simon, SA Parameswaran: Mean-field Modelling of Moiré Materials: A User's Guide with Selected Applications to Twisted Bilayer Graphene: [arxiv:2511.21683](https://arxiv.org/pdf/2511.21683)
 
 When publishing work that uses this code, please cite the reference above. For questions or comments about the code, please contact YH Kwan (yveshkwan@gmail.com), Z Wang (ziwei_wang98@outlook.com), or G Wagner (gwagner@phys.ethz.ch).
 
